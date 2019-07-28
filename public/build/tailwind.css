@@ -7559,6 +7559,10 @@ video {
   fill: #a0aec0;
 }
 
+.bg-action{
+  background-color: #67c6d8;
+}
+
 @media (min-width: 640px) {
   .sm\:appearance-none {
     -webkit-appearance: none;
