@@ -7551,6 +7551,14 @@ video {
   z-index: auto;
 }
 
+.primary{
+  fill: #2d3748;
+}
+
+.secondary{
+  fill: #a0aec0;
+}
+
 @media (min-width: 640px) {
   .sm\:appearance-none {
     -webkit-appearance: none;

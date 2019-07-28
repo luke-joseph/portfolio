@@ -3,3 +3,11 @@
 @tailwind components;
 
 @tailwind utilities;
+
+.primary{
+  fill: #2d3748;
+}
+
+.secondary{
+  fill: #a0aec0;
+}
